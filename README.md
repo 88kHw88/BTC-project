@@ -7,6 +7,7 @@ Some ideas that I want to do in this project are:
 - Include Fear and Greed meter in this project
 
 Logging
+
 2021-10-25: started this project. 
 
 
