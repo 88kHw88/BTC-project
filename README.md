@@ -7,4 +7,7 @@ Some ideas that I want to do in this project are:
 - Include Fear and Greed meter in this project
 
 Logging
-2021-10-25 - starting this project. 
+2021-10-25: started this project. 
+
+
+2021-11-09: added 50MA, 200MA and future days (about 25 days).   
