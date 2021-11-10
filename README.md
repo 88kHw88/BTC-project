@@ -12,3 +12,6 @@ Logging
 
 
 2021-11-09: added 50MA, 200MA and future days (about 25 days).   
+
+
+2021-11-10: starting sentiment analysis using a different notebook to test/exercise.
