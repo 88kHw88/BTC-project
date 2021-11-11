@@ -15,3 +15,6 @@ Logging
 
 
 2021-11-10: starting sentiment analysis using a different notebook to test/exercise.
+
+
+2021-11-11: practice NLTK --> https://realpython.com/python-nltk-sentiment-analysis/
